@@ -12,3 +12,9 @@
 - **ZIP 파일로 다운로드**: 페이지 상단의 `<> Code` 버튼을 클릭한 후 `Download ZIP`을 선택합니다.
 - **Git으로 복제**: 터미널에서 `git clone` 명령어를 사용하여 저장소를 복제합니다.
 
+
+## 문의
+도서나 소스 코드에 관한 문의 사항이 있으시면 아래로 연락해 주세요.
+
+- **에이콘출판사 편집팀**: [editor@acornpub.co.kr](mailto:editor@acornpub.co.kr)
+- **역자**: [greg_kim1002@naver.com](mailto:greg_kim1002@naver.com)
