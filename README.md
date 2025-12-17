@@ -1,11 +1,11 @@
-# <파이썬 AI 애플리케이션> 소스코드
+# <파이썬 AI 애플리케이션> 소스 코드
 
-[<파이썬 AI 애플리케이션>](http://www.acornpub.co.kr/book/9791194409502) 도서에 수록된 예제 소스코드입니다.
+[<파이썬 AI 애플리케이션>](http://www.acornpub.co.kr/book/9791194409502) 도서에 수록된 예제 소스 코드입니다.
 
 <img src="9791194409502.jpg" width="300" alt="파이썬 AI 애플리케이션 개발 표지">
 
 
-## 소스코드 다운로드 방법
+## 소스 코드 다운로드 방법
 
 다음 두 가지 방법 중 하나를 선택하세요.
 
@@ -16,5 +16,5 @@
 ## 문의
 도서나 소스 코드에 관한 문의 사항이 있으시면 아래로 연락해 주세요.
 
-- **에이콘출판사 편집팀**: [editor@acornpub.co.kr](mailto:editor@acornpub.co.kr)
-- **역자**: [greg_kim1002@naver.com](mailto:greg_kim1002@naver.com)
+- **에이콘출판사 편집팀**: editor@acornpub.co.kr
+- **역자**: greg_kim1002@naver.com
