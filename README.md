@@ -16,5 +16,5 @@
 ## 문의
 도서나 소스 코드에 관한 문의 사항이 있으시면 아래로 연락해 주세요.
 
-- **에이콘출판사 편집팀**: editor@acornpub.co.kr
-- **역자**: greg_kim1002@naver.com
+- **에이콘출판사 편집팀**: [editor@acornpub.co.kr](mailto:editor@acornpub.co.kr)
+- **역자**: [greg_kim1002@naver.com](mailto:greg_kim1002@naver.com)
